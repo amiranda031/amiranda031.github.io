@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(216, 168, 168);
+    background-color: rgb(189, 226, 250);
 }
 
 .inicio {
@@ -12,7 +12,7 @@ body {
 
 .foto {
 	flex: 1;
-	background-color: rgb(219, 22, 32);
+	background-color: rgb(39, 113, 224);
 	display: flex;
 	align-items: center;
 	justify-content: center;
