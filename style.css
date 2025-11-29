@@ -123,3 +123,18 @@ body {
     background-color: gray;
     /* Muda a cor de fundo do círculo para cinza */
 }
+
+footer {
+    background-color: #444;
+    color: rgb(135, 185, 241);
+    text-align: center;
+    padding: 20px;
+}
+
+
+footer p {
+    margin: 0;
+    font-family: "Libre Baskerville", serif;
+    font-size: 16px;
+    font-weight: 500;
+}
